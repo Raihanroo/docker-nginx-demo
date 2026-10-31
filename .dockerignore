@@ -1,0 +1,5 @@
+# Ignore local Git metadata and editor files
+.git
+.gitignore
+.vscode/
+.DS_Store
